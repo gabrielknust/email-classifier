@@ -1,0 +1,10 @@
+httpx
+python-dotenv
+fastapi
+uvicorn[standard]
+spacy
+langdetect
+python-multipart
+pypdf2
+python-docx
+pytest
