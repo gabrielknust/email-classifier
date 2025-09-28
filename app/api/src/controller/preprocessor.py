@@ -1,7 +1,7 @@
 import spacy
 from langdetect import detect, LangDetectException
 from typing import List
-from config import settings
+from app.api.config import settings
 
 try:
     nlp = spacy.load("pt_core_news_lg")
