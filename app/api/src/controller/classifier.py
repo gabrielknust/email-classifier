@@ -1,34 +1,37 @@
-import httpx
-from typing import Dict, List, Any
-from app.api.config import settings
+from transformers import pipeline
+from typing import Dict, Any
+import os
 
-def classify_text(text: str, labels: List[str]) -> Dict[str, Any]:
-    headers = {
-        "Authorization": f"Bearer {settings.HUGGINGFACE_API_KEY}"
-    }
+caminho_script_atual = os.path.abspath(__file__)
 
-    payload = {
-        "inputs": text,
-        "parameters": {
-            "candidate_labels": labels
-        }
-    }
+caminho_pasta_app = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(caminho_script_atual))))
 
+DIRETORIO_DO_MODELO = os.path.join(caminho_pasta_app, 'modelo_final_classificador')
+
+classifier_pipeline = None
+
+if not os.path.exists(DIRETORIO_DO_MODELO):
+    print(f"ERRO CRÍTICO: O diretório do modelo treinado '{DIRETORIO_DO_MODELO}' não foi encontrado.")
+else:
     try:
-        with httpx.Client(timeout=20.0) as client:
-            response = client.post(
-                url=settings.HF_API_URL,
-                headers=headers,
-                json=payload
-            )
+        classifier_pipeline = pipeline(
+            "text-classification", 
+            model=DIRETORIO_DO_MODELO,
+            device=-1
+        )
+    except Exception as e:
+        print(f"ERRO CRÍTICO: Não foi possível carregar o modelo de classificação.")
+        print(f"Erro: {e}")
 
-        response.raise_for_status()
-        return response.json()
+def predict(texto_email: str) -> Dict[str, Any]:
+    if not classifier_pipeline:
+        raise RuntimeError("O modelo de classificação não está disponível ou falhou ao carregar.")
 
-    except httpx.HTTPStatusError as e:
-        print(f"Erro da API: {e.response.status_code} - {e.response.text}")
-        raise
+    resultado = classifier_pipeline(texto_email)
+    
+    previsao = resultado[0]
 
-    except httpx.RequestError as e:
-        print(f"Erro de conexão: {e}")
-        raise
+    return {
+        "label": previsao['label'],
+        "confidence": previsao['score']
+    }

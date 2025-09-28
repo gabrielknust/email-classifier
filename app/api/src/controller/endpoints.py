@@ -1,31 +1,24 @@
 from fastapi import APIRouter, HTTPException
 import httpx
-from app.api.src.models.api_models import ClassificationRequest, ClassificationResponse
-from app.api.src.controller.pipeline import run_classification_pipeline
+from ..models.api_models import EmailRequest, ClassificationResponse
+from .pipeline import run_classification_pipeline
 
 router = APIRouter()
 
 @router.post(
-    "/classify-text", 
+    "/classify",
     response_model=ClassificationResponse,
-    tags=["Classification"]
+    tags=["Classification"],
+    summary="Classifica um texto de e-mail em Produtivo ou Improdutivo"
 )
-
-async def classify_text_endpoint(request: ClassificationRequest):
+async def classify_text_endpoint(request: EmailRequest):
     try:
-        text_to_classify = request.text
-        labels = request.labels
-        
-        result_dict = run_classification_pipeline(text=text_to_classify, labels=labels)
-
+        result_dict = await run_classification_pipeline(text=request.text)
         return ClassificationResponse(**result_dict)
 
     except ValueError as e:
         raise HTTPException(status_code=400, detail=str(e))
-    except httpx.HTTPStatusError as e:
-        raise HTTPException(status_code=502, detail=f"Erro na comunicação com o serviço de IA: {e.response.text}")
-    except httpx.RequestError:
-        raise HTTPException(status_code=504, detail="Erro de conexão com o serviço de IA.")
+    except RuntimeError as e:
+        raise HTTPException(status_code=503, detail=str(e))
     except Exception as e:
-        print(f"ERRO INTERNO INESPERADO: {e}")
         raise HTTPException(status_code=500, detail="Ocorreu um erro interno no servidor.")

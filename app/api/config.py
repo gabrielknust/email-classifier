@@ -6,6 +6,7 @@ load_dotenv()
 class Settings:
     
     HUGGINGFACE_API_KEY: str = os.getenv("HUGGINGFACE_API_KEY")
+    GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY")
     
     MODEL_NAME = "MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7"
     HF_API_URL: str = f"https://api-inference.huggingface.co/models/{MODEL_NAME}"

@@ -1,11 +1,10 @@
 from pydantic import BaseModel
 from typing import List
 
-class ClassificationRequest(BaseModel):
+class EmailRequest(BaseModel):
     text: str
-    labels: List[str]
 
 class ClassificationResponse(BaseModel):
-    sequence: str
-    labels: List[str]
-    scores: List[float]
+    label: str
+    confidence: float
+    suggested_reply: str

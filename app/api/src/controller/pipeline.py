@@ -1,16 +1,23 @@
-from typing import Dict, List, Any
-from . import preprocessor
-from . import classifier
+from typing import Dict, Any
+from app.api.src.controller.classifier import predict
+from app.api.src.controller.preprocessor import process_text
+from app.api.src.controller.response_generator import suggest_reply
 
-def run_classification_pipeline(text: str, labels: List[str]) -> Dict[str, Any]:
-    preprocessor.validate_language(text)
+async def run_classification_pipeline(text: str) -> Dict[str, Any]:
+
+    text_preprocessed = ' '.join(process_text(text))
     
-    processed_tokens = preprocessor.process_text(text)
-    print(f" -> Tokens processados: {processed_tokens}")
+    classification_result = predict(text_preprocessed)
 
-    processed_text_string = " ".join(processed_tokens)
-    print(f" -> Texto transformado para envio: '{processed_text_string}'")
+    suggested_reply = await suggest_reply(
+        original_text=text, 
+        label=classification_result['label']
+    )
 
-    classification_result = classifier.classify_text(text=processed_text_string, labels=labels)
+    final_result = {
+        "label": classification_result["label"],
+        "confidence": classification_result["confidence"],
+        "suggested_reply": suggested_reply
+    }
 
-    return classification_result
+    return final_result
