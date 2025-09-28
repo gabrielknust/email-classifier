@@ -1,0 +1,375 @@
+text,label
+"Assunto: Relatório de Vendas - Agosto. Corpo: Olá equipe, segue em anexo o relatório consolidado de vendas do mês de agosto. Os resultados foram excelentes, parabéns a todos!",Produtivo
+"Assunto: Agendamento: Alinhamento Projeto Delta. Corpo: Prezados, estou marcando uma reunião para a próxima terça-feira, às 10h, para discutirmos o cronograma atualizado do Projeto Delta.",Produtivo
+"Assunto: Dúvida sobre Fatura #9876. Corpo: Olá, notei uma discrepância no valor do serviço de consultoria na fatura em anexo. Poderiam verificar, por favor?",Produtivo
+"Assunto: Aprovação Pendente: Requisição de Compra #RC-102. Corpo: A compra das novas licenças do software de BI está aguardando sua aprovação no sistema.",Produtivo
+"Assunto: Status do Ticket de Suporte #S-54321. Corpo: Qual é a atualização mais recente sobre o ticket referente à instabilidade da API? O cliente está aguardando um retorno.",Produtivo
+"Assunto: Feedback sobre o novo Design. Corpo: Gostei muito da nova proposta de layout para a landing page. Anexei um documento com algumas sugestões de pequenos ajustes.",Produtivo
+"Assunto: Minuta da Reunião de Kick-off. Corpo: Segue a minuta da nossa reunião de hoje, com os principais pontos discutidos e os próximos passos definidos.",Produtivo
+"Assunto: Solicitação de Acesso ao Repositório. Corpo: Olá, preciso de acesso de leitura ao repositório 'Projeto-Vega' no GitHub para consultar a documentação.",Produtivo
+"Assunto: Confirmação de Deploy. Corpo: O deploy da versão 3.1.2 em produção foi concluído com sucesso às 15:45.",Produtivo
+"Assunto: Análise de Churn Rate - Q3. Corpo: Anexei a planilha com a análise detalhada da taxa de churn do terceiro trimestre. Precisamos discutir os resultados.",Produtivo
+"Assunto: Orçamento para Campanha de Final de Ano. Corpo: Qual o budget aprovado para a campanha de marketing digital de Natal este ano?",Produtivo
+"Assunto: Problema no Ambiente de Homologação. Corpo: O servidor de testes está apresentando lentidão desde o último deploy. A equipe de infra já foi acionada.",Produtivo
+"Assunto: Documentação para Onboarding de Cliente. Corpo: A documentação técnica para o onboarding do cliente Globex Inc. está finalizada e disponível no Confluence.",Produtivo
+"Assunto: Pull Request #301 para Revisão. Corpo: O PR com a correção do bug de login está pronto para revisão.",Produtivo
+"Assunto: Renovação de Certificado SSL. Corpo: Lembrete: o certificado SSL do nosso domínio principal expira em 10 dias. O processo de renovação já foi iniciado?",Produtivo
+"Assunto: Alocação de Horas - Outubro. Corpo: Por favor, não se esqueçam de preencher a planilha de alocação de horas para os projetos de outubro até o final do dia.",Produtivo
+"Assunto: Resumo de Despesas da Viagem. Corpo: Anexei as notas fiscais e o formulário de reembolso referentes à minha viagem a São Paulo.",Produtivo
+"Assunto: Vaga em Aberto: Engenheiro de Dados Pleno. Corpo: Estamos com uma nova vaga no time. Se tiverem indicações, por favor, encaminhem para o RH.",Produtivo
+"Assunto: Brainstorm para Novas Features Q1. Corpo: Criei um board no Miro para coletarmos ideias de novas funcionalidades para o primeiro trimestre do próximo ano.",Produtivo
+"Assunto: Parecer Jurídico sobre Contrato. Corpo: Precisamos de uma análise do departamento jurídico sobre a cláusula de confidencialidade no contrato do cliente Stark Industries.",Produtivo
+"Assunto: Acesso à VPN. Corpo: Meu acesso à VPN parou de funcionar após a última atualização. Podem me ajudar?",Produtivo
+"Assunto: Relatório de Métricas de Engajamento - Setembro. Corpo: O relatório de engajamento das redes sociais está pronto e em anexo.",Produtivo
+"Assunto: Atualização do Projeto Sirius. Corpo: O desenvolvimento da fase 1 do projeto atingiu 80% de conclusão. Seguimos dentro do prazo e do orçamento.",Produtivo
+"Assunto: Gravação da Reunião de Demonstração. Corpo: Para quem não pôde participar, a gravação da demo da nova plataforma já está no Drive.",Produtivo
+"Assunto: Testes de Carga na Nova API. Corpo: A equipe de QA agendou os testes de carga para a próxima quinta-feira, das 14h às 16h. A API pode apresentar instabilidade no período.",Produtivo
+"Assunto: Definição de OKRs para o Q4. Corpo: Vamos marcar uma reunião para definirmos os OKRs (Objectives and Key Results) do nosso time para o último trimestre.",Produtivo
+"Assunto: Feedback da Entrevista com Candidato. Corpo: Gostaria de compartilhar minhas impressões sobre o candidato que entrevistei hoje para a vaga de analista.",Produtivo
+"Assunto: Migração do Banco de Dados. Corpo: A migração do banco de dados legado para o novo servidor ocorrerá na madrugada de sábado. O sistema ficará indisponível.",Produtivo
+"Assunto: Proposta de Novo Fornecedor. Corpo: Anexei uma proposta de um novo fornecedor de serviços de cloud que oferece um custo-benefício melhor.",Produtivo
+"Assunto: Plano de Ação para o Feedback do NPS. Corpo: Com base nos resultados da última pesquisa de satisfação, montei um plano de ação para os principais pontos de melhoria.",Produtivo
+"Assunto: Boas Festas! Corpo: Desejo a você e sua família um Natal iluminado e um Ano Novo cheio de paz e sucesso!",Improdutivo
+"Assunto: Almoço da equipe. Corpo: Pessoal, quem anima de almoçar no restaurante novo hoje? Aparentemente o prato do dia é bom.",Improdutivo
+"Assunto: PROMOÇÃO IMPERDÍVEL! 50% OFF. Corpo: Só hoje, todo o site com 50% de desconto! Não perca tempo, a promoção é válida apenas pelas próximas 24 horas.",Improdutivo
+"Assunto: Feliz Aniversário! Corpo: Parabéns! Muita saúde, paz, alegria e muitas realizações neste seu novo ciclo. Felicidades!",Improdutivo
+"Assunto: Fotos do nosso happy hour. Corpo: E aí, pessoal! Seguem as fotos da nossa confraternização de sexta-feira. Foram ótimas!",Improdutivo
+"Assunto: [NEWSLETTER] As novidades da semana. Corpo: Fique por dentro de tudo que aconteceu na empresa esta semana em nossa newsletter interna.",Improdutivo
+"Assunto: Amigo Secreto 2025. Corpo: A lista para participar do nosso tradicional amigo secreto já está aberta! Quem quiser participar, me avise.",Improdutivo
+"Assunto: Onde tem um bom café por aqui? Corpo: Alguém recomenda um lugar bom e tranquilo para tomar um café e trabalhar um pouco perto do escritório?",Improdutivo
+"Assunto: Você ganhou um cupom de R$20. Corpo: Parabéns! Use o código VALE20 na sua próxima compra e ganhe R$20 de desconto.",Improdutivo
+"Assunto: Bolão da final do campeonato. Corpo: O bolão para o jogo de domingo está valendo! Quem vai arriscar um palpite?",Improdutivo
+"Assunto: Sua fatura do Spotify está disponível. Corpo: Olá, a sua fatura deste mês já foi fechada e o pagamento será debitado em breve.",Improdutivo
+"Assunto: Lembrete: Amanhã é feriado! Corpo: Só para lembrar a todos que amanhã não haverá expediente. Bom descanso!",Improdutivo
+"Assunto: Venda de ingressos. Corpo: Pessoal, estou vendendo dois ingressos para o show de sábado. Se alguém tiver interesse, me chama no privado.",Improdutivo
+"Assunto: A cafeteira do 2º andar quebrou. Corpo: Alguém sabe se já abriram um chamado para consertar a máquina de café?",Improdutivo
+"Assunto: Você foi mencionado no Slack. Corpo: Ana te mencionou no canal #projetos: 'Por favor, verifique isso.'",Improdutivo
+"Assunto: Fofoca! Corpo: Você não vai acreditar no que eu descobri... te conto depois!",Improdutivo
+"Assunto: Pesquisa de satisfação. Corpo: Sua opinião é importante! Responda nossa pesquisa rápida e nos ajude a melhorar nossos serviços.",Improdutivo
+"Assunto: Quem quer uma carona? Corpo: Estou saindo em 15 minutos e passando perto da estação central. Alguém quer uma carona?",Improdutivo
+"Assunto: O ar condicionado está muito forte. Corpo: Alguém mais está congelando aqui na baia 3? Acho que o ar está no máximo.",Improdutivo
+"Assunto: [URGENTE] Sua conta precisa de atenção. Corpo: Detectamos uma atividade suspeita em sua conta. Por segurança, redefina sua senha.",Improdutivo
+"Assunto: Playlist para focar no trabalho. Corpo: Criei uma playlist no Spotify com músicas instrumentais para ajudar na concentração. Quem quiser, o link é esse.",Improdutivo
+"Assunto: Encomenda da Amazon a caminho. Corpo: Olá, seu pedido foi enviado e a previsão de entrega é amanhã.",Improdutivo
+"Assunto: Grupo de corrida. Corpo: Para os interessados, nosso grupo de corrida se encontra toda terça e quinta às 7h em frente ao parque.",Improdutivo
+"Assunto: [ALERTA] Phishing. Corpo: Atenção: e-mails falsos estão circulando. Não clique em links suspeitos nem forneça suas credenciais.",Improdutivo
+"Assunto: Achados e Perdidos. Corpo: Encontrei um guarda-chuva preto na sala de reuniões 5. Se for seu, está na recepção.",Improdutivo
+"Assunto: Webinário Gratuito sobre Finanças Pessoais. Corpo: Aprenda a organizar suas finanças e a investir melhor. Inscreva-se gratuitamente.",Improdutivo
+"Assunto: O que vocês acharam da nova série da HBO? Corpo: Comecei a assistir ontem e estou viciado. Sem spoilers, por favor!",Improdutivo
+"Assunto: Sua assinatura foi renovada. Corpo: Olá, sua assinatura do plano anual foi renovada com sucesso. Obrigado por continuar conosco.",Improdutivo
+"Assunto: Confraternização de fim de ano. Corpo: SAVE THE DATE! Nossa festa de fim de ano será no dia 15 de Dezembro. Mais informações em breve!",Improdutivo
+"Assunto: Limpeza da geladeira. Corpo: Pessoal, a geladeira da copa será limpa na sexta-feira. Por favor, retirem seus pertences.",Improdutivo
+"Assunto: Validação de Requisitos - App Mobile. Corpo: Segue o documento de requisitos para o novo aplicativo. Aguardo validação até sexta-feira.", Produtivo
+"Assunto: Acesso ao Servidor de Arquivos. Corpo: Preciso de permissão de escrita na pasta 'Marketing/Campanhas2025' no servidor de arquivos.", Produtivo
+"Assunto: Relatório de Erros - API de Pagamentos. Corpo: O monitoramento acusou um aumento de erros 502 na API de pagamentos nas últimas 3 horas.", Produtivo
+"Assunto: Agendamento de Treinamento - Nova Ferramenta de BI. Corpo: O treinamento para a nova ferramenta de Business Intelligence será na próxima quarta, às 9h.", Produtivo
+"Assunto: Proposta de Orçamento - Cliente Wayne Enterprises. Corpo: Anexei a proposta ajustada conforme a última reunião. Por favor, revisar.", Produtivo
+"Assunto: Status da Migração de Dados. Corpo: A migração dos dados do sistema antigo está 50% concluída. Previsão de término para amanhã.", Produtivo
+"Assunto: Revisão de Texto para o Blog. Corpo: O post sobre as tendências do mercado financeiro está pronto para sua revisão.", Produtivo
+"Assunto: Call de Alinhamento com o Time de Design. Corpo: Marquei uma breve call para hoje às 16:30 para alinharmos as próximas telas a serem desenvolvidas.", Produtivo
+"Assunto: Hotfix em Produção. Corpo: A correção para o bug crítico de cálculo de juros foi aplicada em produção.", Produtivo
+"Assunto: Análise de Concorrência. Corpo: Segue a análise de concorrência que preparei para o lançamento do nosso novo produto.", Produtivo
+"Assunto: Férias. Corpo: Gostaria de formalizar meu pedido de férias para o período de 10 a 25 de Janeiro.", Produtivo
+"Assunto: Novo Processo de Aprovação de Despesas. Corpo: A partir de hoje, todas as despesas devem ser aprovadas via sistema, conforme documentação anexa.", Produtivo
+"Assunto: Link para a gravação do Webinar. Corpo: Para quem perdeu, o link para a gravação do nosso último webinar já está disponível.", Produtivo
+"Assunto: Requisição de Acesso para Novo Colaborador. Corpo: Por favor, criar o usuário e email para o novo analista que inicia na próxima semana.", Produtivo
+"Assunto: Dúvida sobre a Política de Home Office. Corpo: A política menciona o uso de equipamentos da empresa. Isso inclui a cadeira ergonômica?", Produtivo
+"Assunto: Relatório de Acessos ao Sistema. Corpo: Poderia gerar um log de todos os acessos do usuário 'admin' nos últimos 7 dias?", Produtivo
+"Assunto: Envio do Contrato Assinado. Corpo: O contrato com o cliente Cyberdyne Systems foi assinado. Segue a cópia digitalizada.", Produtivo
+"Assunto: Wireframes para o Novo Módulo de Relatórios. Corpo: Os wireframes estão prontos para validação. O link do Figma está no corpo do email.", Produtivo
+"Assunto: Aumento de Carga no Servidor. Corpo: Notamos um pico de uso de CPU no servidor principal. Estamos investigando a causa.", Produtivo
+"Assunto: Definição de Escopo - Fase 2 do Projeto Orion. Corpo: Precisamos agendar uma reunião para fechar o escopo da próxima fase do projeto.", Produtivo
+"Assunto: Aprovado o orçamento para a campanha. Corpo: O orçamento de R$ 20.000 para a campanha de mídia paga foi aprovado.", Produtivo
+"Assunto: Follow-up da Reunião com Fornecedor. Corpo: Alguma novidade sobre a proposta que o fornecedor de TI ficou de nos enviar?", Produtivo
+"Assunto: Testes de Usabilidade. Corpo: Os testes de usabilidade com os usuários beta começam na próxima segunda-feira.", Produtivo
+"Assunto: Atualização da Biblioteca de Componentes. Corpo: A versão 1.5 da nossa biblioteca de componentes de UI foi publicada.", Produtivo
+"Assunto: Relatório de Horas do Mês. Corpo: Lembrete para que todos preencham o relatório de horas trabalhadas até o final da semana.", Produtivo
+"Assunto: Problema com a Impressora do 3º Andar. Corpo: A impressora colorida não está funcionando. Já abri um chamado para a TI.", Produtivo
+"Assunto: Ideias para o próximo artigo do blog. Corpo: Alguém tem sugestões de temas para o nosso próximo post no blog técnico?", Produtivo
+"Assunto: Acesso ao ambiente de Staging. Corpo: Preciso das credenciais de acesso ao ambiente de Staging para realizar os testes finais.", Produtivo
+"Assunto: Confirmação de Presença - Evento Anual. Corpo: Por favor, confirme sua presença na nossa convenção anual até o dia 30.", Produtivo
+"Assunto: Análise de Risco do Projeto. Corpo: O documento de análise de riscos do Projeto Vega foi atualizado com novos itens.", Produtivo
+"Assunto: Black Friday chegando! Descontos de até 80%. Corpo: Prepare-se para as melhores ofertas do ano! A Black Friday está chegando com descontos imperdíveis.", Improdutivo
+"Assunto: Feliz Dia do Trabalho! Corpo: Um dia para celebrar todos os trabalhadores. Bom descanso!", Improdutivo
+"Assunto: Você foi marcado em uma foto. Corpo: Seu amigo te marcou em uma foto no Instagram.", Improdutivo
+"Assunto: [VAGAS] Estamos contratando! Corpo: Conhece alguém que seria perfeito para o nosso time? Confira nossas vagas em aberto.", Improdutivo
+"Assunto: Convite para Conexão no LinkedIn. Corpo: Gostaria de adicionar você à minha rede profissional no LinkedIn.", Improdutivo
+"Assunto: A pizza chegou! Corpo: Pessoal, o pedido da pizzaria chegou. Venham para a copa!", Improdutivo
+"Assunto: Seu resumo semanal do Duolingo. Corpo: Você está no caminho certo! Continue praticando para não perder sua ofensiva.", Improdutivo
+"Assunto: [URGENTE] Ação necessária na sua conta. Corpo: Detectamos um problema com sua conta. Clique aqui para verificar e evitar o bloqueio.", Improdutivo
+"Assunto: Grupo de Estudos de Python. Corpo: Estou pensando em montar um grupo para estudarmos juntos. Alguém tem interesse?", Improdutivo
+"Assunto: Feliz Páscoa! Corpo: Que sua Páscoa seja doce e cheia de alegria. Muitos chocolates para você e sua família!", Improdutivo
+"Assunto: Sua viagem com a Uber. Corpo: Obrigado por viajar conosco. Aqui está o recibo da sua última viagem.", Improdutivo
+"Assunto: Fechamento da rua para evento. Corpo: Atenção: a rua em frente ao escritório estará fechada no próximo domingo para uma corrida de rua.", Improdutivo
+"Assunto: Sorteio de Fim de Ano! Corpo: Participe do nosso sorteio e concorra a prêmios incríveis!", Improdutivo
+"Assunto: O que fazer no fim de semana? Corpo: Dicas de filmes, séries e eventos para você aproveitar o seu tempo livre.", Improdutivo
+"Assunto: Sua entrega está a caminho. Corpo: Seu pacote da Americanas já saiu para entrega e deve chegar hoje.", Improdutivo
+"Assunto: [COMUNICADO] Nova política de vestimenta. Corpo: A partir de segunda-feira, teremos um código de vestimenta mais casual.", Improdutivo
+"Assunto: Você tem (1) nova mensagem de voz. Corpo: Ouça agora sua nova mensagem de voz.", Improdutivo
+"Assunto: Participe da nossa pesquisa de mercado. Corpo: Sua opinião vale muito! Responda nossa pesquisa e ganhe um cupom de desconto.", Improdutivo
+"Assunto: O filme de ontem... Corpo: E aí, o que achou daquele final? Totalmente inesperado, né?", Improdutivo
+"Assunto: Limite do seu cartão aumentou! Corpo: Boas notícias! Aumentamos o limite do seu cartão de crédito.", Improdutivo
+"Assunto: Reunião do condomínio. Corpo: Lembrete da reunião de condomínio hoje à noite, às 19h, no salão de festas.", Improdutivo
+"Assunto: Seu time do coração joga hoje! Corpo: Não perca a partida de hoje às 21h.", Improdutivo
+"Assunto: [OPORTUNIDADE] Invista em criptomoedas. Corpo: Descubra o mercado que mais cresce no mundo. Saiba como investir.", Improdutivo
+"Assunto: Feliz Dia das Mães! Corpo: Um abraço especial a todos as mães guerreiras.", Improdutivo
+"Assunto: A playlist de hoje está boa. Corpo: Quem estiver procurando música, a playlist 'Lo-Fi Beats' está ótima para se concentrar.", Improdutivo
+"Assunto: Alerta de Preço Baixo. Corpo: O produto que você estava de olho baixou de preço! Corra antes que acabe.", Improdutivo
+"Assunto: Organizando o próximo churrasco. Corpo: Pessoal, estou pensando em fazer um churrasco no próximo feriado. Quem vem?", Improdutivo
+"Assunto: Sua conta de luz está disponível. Corpo: A fatura de energia elétrica deste mês já pode ser acessada no nosso site.", Improdutivo
+"Assunto: Dicas para uma vida mais saudável. Corpo: Confira 5 dicas simples para melhorar sua alimentação e bem-estar.", Improdutivo
+"Assunto: Requisição de Acesso - Sistema de BI. Corpo: Olá, o novo analista do time de marketing, Pedro, precisa de acesso de leitura ao dashboard de vendas no sistema de BI.",Produtivo
+"Assunto: Envio de Contrato - Fornecedor de Cloud. Corpo: Segue o contrato com a AWS para revisão do departamento jurídico. Por favor, priorizar.",Produtivo
+"Assunto: Pauta para a Reunião Semanal. Corpo: Equipe, por favor, adicionem seus tópicos de discussão para a nossa reunião de amanhã neste documento.",Produtivo
+"Assunto: Atualização de Documentação - API v2. Corpo: A documentação da API v2 foi atualizada no Swagger com os novos endpoints de clientes.",Produtivo
+"Assunto: Relatório de Horas Aprovado. Corpo: Suas horas lançadas para a semana passada foram aprovadas.",Produtivo
+"Assunto: Alerta de Performance do Servidor. Corpo: Nosso sistema de monitoramento detectou um uso de memória acima de 90% no servidor de banco de dados. Equipe de infra, favor verificar.",Produtivo
+"Assunto: Follow-up da Proposta #456. Corpo: Olá, cliente. Gostaria de saber se vocês tiveram a oportunidade de analisar a proposta que enviamos na semana passada.",Produtivo
+"Assunto: Definição de Metas para o Próximo Trimestre. Corpo: Criei uma planilha compartilhada para definirmos as metas do time para o Q4. Peço que todos colaborem.",Produtivo
+"Assunto: Bug Crítico Reportado - Tela de Checkout. Corpo: Um cliente reportou um bug que impede a finalização da compra. Prioridade máxima para investigação.",Produtivo
+"Assunto: Reembolso de Despesas Aprovado. Corpo: Seu pedido de reembolso de despesas da viagem foi aprovado e será pago na próxima folha.",Produtivo
+"Assunto: Agendamento de Entrevista Técnica. Corpo: A entrevista com o candidato para a vaga de Desenvolvedor Sênior está marcada para amanhã às 14h.",Produtivo
+"Assunto: Plano de Comunicação - Lançamento do Produto. Corpo: Anexei o plano de comunicação para o lançamento do novo produto no próximo mês.",Produtivo
+"Assunto: Solicitação de Feedback 360. Corpo: Como parte do nosso ciclo de avaliação, por favor, forneça seu feedback anônimo para seus pares.",Produtivo
+"Assunto: Otimização de Query no Banco de Dados. Corpo: A query do relatório de usuários ativos foi otimizada e agora roda 80% mais rápido.",Produtivo
+"Assunto: Confirmação de Férias. Corpo: Seu período de férias de 10/10 a 25/10 foi aprovado pelo seu gestor.",Produtivo
+"Assunto: Resultados do Teste A/B. Corpo: O teste A/B da nova cor do botão de compra mostrou um aumento de 5% na conversão. Vamos implementar a mudança.",Produtivo
+"Assunto: Treinamento de Segurança da Informação. Corpo: Lembrete: o treinamento obrigatório de segurança é amanhã, às 9h, na sala de conferências.",Produtivo
+"Assunto: Acesso ao ambiente de Staging. Corpo: As credenciais de acesso ao ambiente de Staging foram renovadas. Seguem os novos dados.",Produtivo
+"Assunto: Relatório de Atividades dos Concorrentes. Corpo: Segue a análise mensal das últimas ações e lançamentos dos nossos principais concorrentes.",Produtivo
+"Assunto: Onboarding do Novo Cliente. Corpo: A reunião de kick-off para o onboarding do cliente Wayne Enterprises será na segunda-feira.",Produtivo
+"Assunto: [AVISO] Manutenção Programada. Corpo: O sistema principal ficará indisponível por aproximadamente 1 hora na próxima madrugada para atualizações.",Produtivo
+"Assunto: Revisão do Orçamento de Marketing. Corpo: Precisamos revisar o orçamento proposto para a campanha do Dia dos Pais.",Produtivo
+"Assunto: Logotipo Aprovado. Corpo: O cliente aprovou a versão 3 do logotipo. Podemos seguir com a criação do manual da marca.",Produtivo
+"Assunto: Análise de Causa Raiz - Incidente #502. Corpo: Anexei o documento com a análise da causa raiz do incidente da semana passada.",Produtivo
+"Assunto: Definição de Prazos - Projeto Vega. Corpo: Precisamos estabelecer prazos finais para as entregas da fase 1 do Projeto Vega.",Produtivo
+"Assunto: [COMUNICADO] Nova Estrutura Organizacional. Corpo: A empresa passará por uma reestruturação. O novo organograma está anexo.",Produtivo
+"Assunto: Solicitação de Equipamento. Corpo: Abri um chamado para a troca do meu teclado, que está com defeito.",Produtivo
+"Assunto: Relatório de Satisfação do Cliente (CSAT). Corpo: Os resultados da pesquisa CSAT deste mês estão disponíveis no dashboard de métricas.",Produtivo
+"Assunto: Aprovação de Conteúdo para Redes Sociais. Corpo: O calendário de postagens para a próxima semana está pronto para aprovação.",Produtivo
+"Assunto: Início dos Testes de Integração. Corpo: A fase de testes de integração entre a API de pagamentos e o nosso sistema começa hoje.",Produtivo
+"Assunto: [LEMBRETE] Preenchimento de Ponto. Corpo: Por favor, não se esqueçam de verificar e ajustar suas marcações de ponto até o final do dia.",Produtivo
+"Assunto: Reunião com o Time de Produto. Corpo: A reunião semanal de alinhamento com o time de produto é em 15 minutos.",Produtivo
+"Assunto: Resposta da Equipe de Suporte. Corpo: O seu ticket #T-12345 foi respondido. Por favor, verifique a solução proposta.",Produtivo
+"Assunto: Plano de Capacitação. Corpo: Anexei uma proposta de plano de capacitação para o nosso time para o próximo semestre.",Produtivo
+"Assunto: Relatório de Anomalias Financeiras. Corpo: Nosso sistema detectou uma anomalia nos relatórios financeiros. Investigando.",Produtivo
+"Assunto: Definição do Escopo do MVP. Corpo: Vamos realizar uma workshop para definir o escopo do Mínimo Produto Viável (MVP) do novo app.",Produtivo
+"Assunto: Envio da Proposta de Parceria. Corpo: A proposta de parceria com a empresa LogiTech foi enviada. Aguardando o retorno deles.",Produtivo
+"Assunto: Liberação de Acesso ao Sistema. Corpo: O acesso de leitura ao sistema de logs foi liberado para o seu usuário.",Produtivo
+"Assunto: Relatório de Auditoria. Corpo: O relatório final da auditoria externa está disponível para consulta.",Produtivo
+"Assunto: Cronograma de Lançamento da v4.0. Corpo: Anexei o cronograma detalhado para o lançamento da próxima versão do nosso software.",Produtivo
+"Assunto: Você não vai acreditar nisto! Corpo: Uma oferta tão boa que parece mentira, mas não é! Clique e confira!",Improdutivo
+"Assunto: [GRUPO] Venda de Rifa. Corpo: Pessoal, estou vendendo uma rifa para ajudar a formatura da minha irmã. Quem puder ajudar...",Improdutivo
+"Assunto: Feriado prolongado à vista! Corpo: Contando os minutos para o feriado! Quais os planos de vocês?",Improdutivo
+"Assunto: Sua encomenda chegou ao centro de distribuição. Corpo: Olá! Sua encomenda dos Correios está a caminho e logo será entregue.",Improdutivo
+"Assunto: Recomendações de séries? Corpo: Terminei de assistir a última temporada de 'The Crown'. Alguém tem alguma recomendação boa?",Improdutivo
+"Assunto: Notificação de Segurança: Novo login. Corpo: Detectamos um novo login em sua conta do iFood a partir de um dispositivo desconhecido.",Improdutivo
+"Assunto: ☕️ Hora do Café! Corpo: Quem topa uma pausa para o café? Estou descendo para a copa agora.",Improdutivo
+"Assunto: Você tem novos matches! Corpo: Novas pessoas curtiram o seu perfil no Tinder. Veja quem são!",Improdutivo
+"Assunto: [COMUNICADO SÍNDICO] Manutenção do elevador. Corpo: O elevador de serviço ficará em manutenção amanhã, das 9h às 12h.",Improdutivo
+"Assunto: Seu resumo do Spotify está pronto! Corpo: Confira as músicas e artistas que você mais ouviu este ano.",Improdutivo
+"Assunto: Convite: Jantar de Fim de Ano. Corpo: Você e sua família estão convidados para o nosso jantar de confraternização.",Improdutivo
+"Assunto: O jogo de ontem foi incrível! Corpo: Alguém mais assistiu à virada histórica do nosso time? Que partida!",Improdutivo
+"Assunto: [CLASSIFICADOS] Vendo cadeira gamer. Corpo: Pessoal, estou vendendo minha cadeira gamer seminova. Motivo: mudança.",Improdutivo
+"Assunto: Sua assinatura do Prime Video vai ser renovada. Corpo: Não se preocupe, sua diversão continua. A renovação da sua assinatura é automática.",Improdutivo
+"Assunto: Feliz Dia dos Namorados! Corpo: Desejamos a todos os casais um dia cheio de amor e carinho.",Improdutivo
+"Assunto: Bolão do Oscar. Corpo: Quem quer participar do bolão do Oscar este ano? As apostas estão abertas!",Improdutivo
+"Assunto: Onde almoçar hoje? Corpo: Estou sem ideias para o almoço. Alguma sugestão de restaurante bom e barato por aqui?",Improdutivo
+"Assunto: [ALERTA] Vencimento da sua CNH. Corpo: Sua Carteira Nacional de Habilitação está próxima do vencimento. Renove para evitar multas.",Improdutivo
+"Assunto: Receita de bolo de chocolate. Corpo: Para os amantes da confeitaria, segue a melhor receita de bolo de chocolate que já fiz.",Improdutivo
+"Assunto: Convite para evento online. Corpo: Participe do nosso webinário gratuito sobre como falar em público e perca o medo do palco.",Improdutivo
+"Assunto: Notificação do Facebook: Fulano te convidou para jogar Candy Crush. Corpo: Fulano quer sua ajuda em uma nova fase!",Improdutivo
+"Assunto: Lista de supermercado. Corpo: Alguém vai ao mercado depois do expediente? Poderia trazer um leite para mim?",Improdutivo
+"Assunto: A internet do escritório caiu? Corpo: Pessoal, estou sem conexão. É um problema geral ou só comigo?",Improdutivo
+"Assunto: [PESQUISA] Qual o melhor sabor de pizza? Corpo: Vamos resolver essa polêmica de uma vez por todas. Vote no seu sabor preferido.",Improdutivo
+"Assunto: Seu voo foi alterado. Corpo: Atenção: houve uma alteração no horário do seu voo para o Rio de Janeiro. Confira os detalhes.",Improdutivo
+"Assunto: Recomendações de podcast. Corpo: Estou procurando um novo podcast para ouvir no trânsito. Alguma sugestão?",Improdutivo
+"Assunto: Você é o visitante número 1.000.000! Corpo: Parabéns! Você ganhou um prêmio exclusivo. Clique aqui para resgatar!",Improdutivo
+"Assunto: [COMUNICADO RH] Campanha de vacinação. Corpo: A campanha de vacinação contra a gripe acontecerá na próxima semana.",Improdutivo
+"Assunto: Quem perdeu um fone de ouvido sem fio? Corpo: Achei um fone da Apple na sala de descompressão.",Improdutivo
+"Assunto: Dicas de viagem para a Europa. Corpo: Para quem está planejando viajar, fiz uma lista com dicas de roteiros e hostels.",Improdutivo
+"Assunto: Sua conta foi criada com sucesso! Corpo: Bem-vindo! Seu cadastro em nosso site foi realizado com sucesso.",Improdutivo
+"Assunto: [URGENTE] Verifique sua caixa de correio. Corpo: Uma encomenda importante foi deixada para você. É necessária sua atenção.",Improdutivo
+"Assunto: Reunião de pais e mestres. Corpo: Lembrete da reunião escolar do seu filho amanhã, às 18h.",Improdutivo
+"Assunto: Indicação de filme. Corpo: Recomendo fortemente assistirem ao novo filme do Nolan, é uma obra de arte.",Improdutivo
+"Assunto: Problema com o ar condicionado. Corpo: O controle do ar condicionado da nossa sala sumiu.",Improdutivo
+"Assunto: [Oportunidade] Renda extra trabalhando de casa. Corpo: Descubra como ganhar dinheiro sem sair de casa. Saiba mais.",Improdutivo
+"Assunto: Confirmação de agendamento de consulta. Corpo: Sua consulta com o dentista está confirmada para sexta-feira, às 11h.",Improdutivo
+"Assunto: Como está o tempo aí fora? Corpo: Para quem está em home office, está chovendo muito na região central?",Improdutivo
+"Assunto: [Doação] Campanha do agasalho. Corpo: Estamos arrecadando agasalhos para doação. Sua contribuição é muito bem-vinda.",Improdutivo
+"Assunto: Seu extrato bancário mensal está disponível. Corpo: Acesse nosso aplicativo para visualizar o extrato completo da sua conta.",Improdutivo
+"Assunto: Convite para jogar online. Corpo: Alguém anima uma partida de Among Us hoje à noite?",Improdutivo
+"Assunto: [AVISO] Interdição da rua para obras. Corpo: A rua de trás do escritório será interditada para obras na próxima semana.",Improdutivo
+"Assunto: O que vocês vão fazer no feriado? Corpo: Algum plano interessante para aproveitar o feriado prolongado?",Improdutivo
+"Assunto: Seu carrinho de compras está esperando por você! Corpo: Os produtos que você selecionou ainda estão disponíveis. Finalize sua compra!",Improdutivo
+"Assunto: Recomendações de livros. Corpo: Terminei de ler um livro incrível e gostaria de recomendar.",Improdutivo
+"Assunto: [SEGURANÇA] Atualize seu antivírus. Corpo: Uma nova ameaça foi detectada. Mantenha seu software de segurança atualizado.",Improdutivo
+"Assunto: A cantina está com cardápio novo. Corpo: O cardápio desta semana inclui lasanha e feijoada. Confira!",Improdutivo
+"Assunto: Você recebeu um novo Pix. Corpo: Uma transferência de R$ 50,00 foi realizada para a sua conta.",Improdutivo
+"Assunto: Grupo de estudos para certificação. Corpo: Quem está estudando para a certificação PMP e quer formar um grupo de estudos?",Improdutivo
+"Assunto: [PROMO] Leve 3, pague 2! Corpo: Aproveite nossa promoção especial esta semana.",Improdutivo
+"Assunto: Lembrete de pagamento. Corpo: Olá, este é um lembrete amigável de que sua fatura vence em 3 dias.",Improdutivo
+"Assunto: Recomendações de música. Corpo: Descobri uma banda nova muito boa e queria compartilhar com vocês.",Improdutivo
+"Assunto: Notificação do iFood: Seu pedido está a caminho! Corpo: O entregador já retirou seu pedido e está a caminho do seu endereço.",Improdutivo
+"Assunto: Precisa de ajuda com a declaração do IR? Corpo: Nosso parceiro contador está oferecendo descontos para colaboradores.",Improdutivo
+"Assunto: [COMUNICADO] Falta de energia programada. Corpo: Haverá uma interrupção no fornecimento de energia no nosso andar amanhã.",Improdutivo
+"Assunto: Que horas é o jogo do Brasil? Corpo: Pessoal, alguém sabe que horas o jogo começa hoje?",Improdutivo
+"Assunto: Sua opinião sobre o nosso atendimento. Corpo: Por favor, avalie o último atendimento que você recebeu da nossa equipe de suporte.",Improdutivo
+"Assunto: Relatório de Análise de Cohort. Corpo: A análise de cohort dos usuários que se cadastraram em Janeiro mostra uma alta taxa de engajamento.",Produtivo
+"Assunto: Definição de Epic e User Stories. Corpo: As User Stories para a Epic de 'Gamificação' foram escritas e estão prontas para o refinamento.",Produtivo
+"Assunto: Prova de Conceito (PoC) - Novo Banco de Dados. Corpo: A PoC com o banco de dados NoSQL demonstrou uma performance 3x superior para nossas consultas.",Produtivo
+"Assunto: Revisão do Acordo de Nível de Serviço (SLA). Corpo: O SLA com o fornecedor de infraestrutura precisa ser revisado antes da renovação do contrato.",Produtivo
+"Assunto: Relatório de Acessibilidade. Corpo: O relatório de acessibilidade do nosso site apontou 5 problemas críticos que precisam ser corrigidos.",Produtivo
+"Assunto: Plano de Carreira e Desenvolvimento (PDI). Corpo: O RH enviou o novo template para o Plano de Desenvolvimento Individual.",Produtivo
+"Assunto: Automação de Relatórios Financeiros. Corpo: O script de automação que gera os relatórios financeiros diários foi concluído.",Produtivo
+"Assunto: Investigação de Aumento de Latência. Corpo: A latência da nossa API principal aumentou em 50ms. Investigando a causa.",Produtivo
+"Assunto: Proposta de Adoção do Terraform. Corpo: Apresentei uma proposta para começarmos a usar o Terraform para gerenciar nossa infraestrutura como código.",Produtivo
+"Assunto: Relatório de Satisfação Pós-Suporte. Corpo: 95% dos clientes avaliaram nosso último atendimento de suporte como 'Ótimo' ou 'Excelente'.",Produtivo
+"Assunto: Alinhamento sobre a Lei de Direitos Autorais. Corpo: Precisamos de um alinhamento com o jurídico sobre o uso de imagens em nosso blog.",Produtivo
+"Assunto: Refatoração do Código Legado. Corpo: Iniciaremos um esforço concentrado para refatorar o módulo de usuários, que é nosso maior débito técnico.",Produtivo
+"Assunto: Relatório de Capacidade da Equipe (Capacity Planning). Corpo: A análise de capacidade mostra que temos um gargalo na equipe de QA.",Produtivo
+"Assunto: Definição de Métricas de Sucesso para o Lançamento. Corpo: Quais serão as métricas-chave (KPIs) que usaremos para medir o sucesso do novo produto?",Produtivo
+"Assunto: Validação do Fluxo de Pagamento. Corpo: O fluxo de pagamento completo, incluindo a integração com o gateway, está pronto para validação em homologação.",Produtivo
+"Assunto: [URGENTE] Falha no backup noturno. Corpo: O processo de backup do nosso banco de dados principal falhou esta noite.",Improdutivo
+"Assunto: Achados e Perdidos: Encontrei um cartão de crédito. Corpo: Pessoal, encontrei um cartão com o nome 'Ana C. Silva' perto da máquina de café.",Improdutivo
+"Assunto: Você tem pontos prestes a expirar! Corpo: Seus pontos no nosso programa de fidelidade expiram em 7 dias. Resgate agora!",Improdutivo
+"Assunto: [DICA DE LIVRO] Recomendo a leitura. Corpo: Acabei de ler 'Hábitos Atômicos' e achei fantástico. Recomendo a todos.",Improdutivo
+"Assunto: Requisição de Acesso ao JIRA. Corpo: Por favor, conceder acesso de desenvolvedor ao projeto 'Phoenix' no JIRA para o novo colaborador.",Produtivo
+"Assunto: Relatório de Análise de Sentimento - Outubro. Corpo: O relatório consolidado da análise de sentimento das redes sociais já está disponível no Drive.",Produtivo
+"Assunto: Agendamento de Reunião de Retrospectiva. Corpo: Pessoal, a nossa reunião de retrospectiva do Sprint 14 será na sexta-feira, às 16h.",Produtivo
+"Assunto: Proposta Comercial para Cliente ACME. Corpo: Anexei a versão final da proposta para o cliente ACME. Por favor, revisem antes de enviarmos.",Produtivo
+"Assunto: Status do Bug #B-404. Corpo: O bug que impedia o login de usuários do Facebook foi corrigido e o hotfix está em homologação.",Produtivo
+"Assunto: Envio de Documentação para o Jurídico. Corpo: Segue o contrato do fornecedor 'Tech Solutions' para análise e parecer do departamento jurídico.",Produtivo
+"Assunto: Validação do Fluxo de Recuperação de Senha. Corpo: O novo fluxo de recuperação de senha está disponível no ambiente de staging para testes.",Produtivo
+"Assunto: Relatório de Horas do Projeto Vega. Corpo: Lembrete a todos os envolvidos no Projeto Vega para que preencham suas horas até o final do dia.",Produtivo
+"Assunto: Confirmação de Deploy da Versão 2.8. Corpo: A versão 2.8 do nosso app foi enviada para as lojas (App Store e Play Store) com sucesso.",Produtivo
+"Assunto: Análise de Causa Raiz - Instabilidade do Servidor. Corpo: Concluímos a análise do incidente de ontem. A causa foi um vazamento de memória. Relatório em anexo.",Produtivo
+"Assunto: Orçamento para a Campanha de Marketing Q1. Corpo: Qual o orçamento disponível para investirmos em mídia paga no primeiro trimestre?",Produtivo
+"Assunto: Manutenção Preventiva do Banco de Dados. Corpo: A manutenção do banco de dados de produção está agendada para sábado, às 23h.",Produtivo
+"Assunto: Onboarding do Novo Cliente - Wayne Enterprises. Corpo: Segue o cronograma de atividades para o onboarding do nosso novo cliente.",Produtivo
+"Assunto: Revisão de Pull Request #512. Corpo: O Pull Request com a implementação da nova API de usuários está pronto para revisão.",Produtivo
+"Assunto: Renovação das Licenças do Office 365. Corpo: As licenças do pacote Office expiram em 30 dias. Devemos iniciar o processo de renovação?",Produtivo
+"Assunto: Alocação de Recursos para o Próximo Sprint. Corpo: Por favor, atualizem a planilha de alocação (capacity planning) para o próximo sprint.",Produtivo
+"Assunto: Reembolso de Despesas. Corpo: Anexei o formulário e as notas fiscais para o reembolso das despesas da minha última viagem.",Produtivo
+"Assunto: Indicação para Vaga de UX Designer. Corpo: Olá, gostaria de indicar um colega para a vaga de UX Designer que está em aberto.",Produtivo
+"Assunto: Brainstorm para o Hackathon Interno. Corpo: Criei um board no Miro para coletarmos ideias de projetos para o nosso hackathon.",Produtivo
+"Assunto: Análise de Contrato - Cláusula de SLA. Corpo: O jurídico precisa revisar a cláusula de Acordo de Nível de Serviço no contrato do novo fornecedor.",Produtivo
+"Assunto: Problema de Acesso à VPN. Corpo: Não estou conseguindo me conectar à VPN da empresa hoje. Aconteceu com mais alguém?",Produtivo
+"Assunto: Relatório de Métricas do Google Analytics - Semana 39. Corpo: O relatório com as principais métricas de acesso ao site está em anexo.",Produtivo
+"Assunto: Atualização do Status - Projeto Orion. Corpo: A fase de testes de integração do Projeto Orion foi iniciada hoje. Previsão de término em 5 dias.",Produtivo
+"Assunto: Gravação da Reunião de Alinhamento. Corpo: Para quem não pôde participar, a gravação da reunião de alinhamento com a diretoria está no Drive.",Produtivo
+"Assunto: Testes de Segurança (Pentest). Corpo: A equipe de segurança externa iniciará os testes de penetração em nosso sistema na próxima semana.",Produtivo
+"Assunto: Definição de OKRs do Time. Corpo: Vamos agendar uma reunião para definirmos os OKRs do nosso time para o próximo trimestre.",Produtivo
+"Assunto: Feedback sobre a entrevista de hoje. Corpo: Gostaria de compartilhar minhas impressões sobre a candidata que entrevistei para a vaga de QA.",Produtivo
+"Assunto: Cronograma da Migração do Servidor. Corpo: O cronograma detalhado para a migração do nosso servidor web para a nova infraestrutura está em anexo.",Produtivo
+"Assunto: Proposta de Novo Fornecedor de Software. Corpo: Anexei a proposta de um novo software de helpdesk que parece ser mais completo e barato.",Produtivo
+"Assunto: Plano de Ação para o NPS. Corpo: Com base na última pesquisa de satisfação, montei um plano de ação para os detratores.",Produtivo
+"Assunto: Boas Festas e Feliz Ano Novo! Corpo: A todos os colegas, desejo um excelente final de ano e que o próximo seja ainda melhor!",Improdutivo
+"Assunto: Quem anima um happy hour hoje? Corpo: Pessoal, sextou! Vamos tomar uma no bar da esquina para relaxar?",Improdutivo
+"Assunto: [PROMOÇÃO] Sua chance de ganhar um iPhone novo! Corpo: Participe do nosso sorteio e concorra a um iPhone 15 Pro! Clique para saber mais.",Improdutivo
+"Assunto: Parabéns pelo seu aniversário! Corpo: Muitas felicidades, saúde, paz e sucesso hoje e sempre! Aproveite o seu dia.",Improdutivo
+"Assunto: Fotos da nossa festa de fim de ano! Corpo: Para quem pediu, seguem as melhores fotos da nossa confraternização.",Improdutivo
+"Assunto: Newsletter da Empresa - Edição de Novembro. Corpo: Confira as novidades do mês, os aniversariantes e uma mensagem do nosso CEO.",Improdutivo
+"Assunto: Organização do Amigo Secreto. Corpo: A lista para participar do amigo secreto deste ano está aberta! O sorteio será na sexta.",Improdutivo
+"Assunto: Recomendação de restaurante. Corpo: Alguém conhece um bom restaurante mexicano aqui perto para um almoço de equipe?",Improdutivo
+"Assunto: Você recebeu um cupom de 15% de desconto. Corpo: Use o código OFERTA15 na sua próxima compra em nosso site e aproveite!",Improdutivo
+"Assunto: Bolão da Copa do Mundo. Corpo: Quem quer entrar no bolão? As apostas para a primeira rodada já estão abertas.",Improdutivo
+"Assunto: Sua fatura do iFood Card vence hoje. Corpo: Olá, não se esqueça de pagar sua fatura para continuar aproveitando os melhores restaurantes.",Improdutivo
+"Assunto: [LEMBRETE] Feriado na próxima semana. Corpo: Lembrando a todos que na próxima sexta-feira será feriado e não haverá expediente.",Improdutivo
+"Assunto: Venda de ingressos para o Lollapalooza. Corpo: Pessoal, infelizmente não poderei ir ao festival. Estou vendendo meu ingresso pelo preço que paguei.",Improdutivo
+"Assunto: A máquina de café está sem água. Corpo: Alguém sabe como reabastecer o galão de água da máquina de café da copa?",Improdutivo
+"Assunto: Você tem uma nova solicitação de amizade. Corpo: Ana da Silva quer se conectar com você no Facebook.",Improdutivo
+"Assunto: Você não vai acreditar... Corpo: Menina, te prepare para a fofoca do ano! Te ligo mais tarde.",Improdutivo
+"Assunto: Sua opinião é importante para nós. Corpo: Responda nossa pesquisa de satisfação e nos ajude a melhorar nossos produtos.",Improdutivo
+"Assunto: Carona para o centro. Corpo: Estou indo para o centro da cidade agora. Se alguém precisar de carona, tenho duas vagas.",Improdutivo
+"Assunto: Ar condicionado. Corpo: Pessoal, por favor, vamos tentar chegar a um consenso sobre a temperatura do ar condicionado. Está muito frio.",Improdutivo
+"Assunto: [URGENTE] Atividade suspeita detectada. Corpo: Uma tentativa de login suspeita em sua conta foi bloqueada. Se não foi você, altere sua senha.",Improdutivo
+"Assunto: Minha playlist de foco. Corpo: Para quem gosta de música eletrônica para trabalhar, fiz uma playlist nova no Spotify.",Improdutivo
+"Assunto: Seu pedido da Amazon foi entregue. Corpo: Olá, seu pacote foi deixado com o porteiro do seu prédio.",Improdutivo
+"Assunto: Grupo de trekking. Corpo: Estou montando um grupo para fazer uma trilha no próximo feriado. Alguém se interessa?",Improdutivo
+"Assunto: [ALERTA DE SEGURANÇA] Novo tipo de golpe. Corpo: Atenção: um novo tipo de golpe do Pix está circulando. Fiquem atentos.",Improdutivo
+"Assunto: Achados e Perdidos. Corpo: Encontrei um par de fones de ouvido sem fio na sala de reuniões 3. Está na recepção.",Improdutivo
+"Assunto: Webinário Gratuito: Como investir em ações. Corpo: Aprenda os primeiros passos para começar a investir na bolsa de valores. Vagas limitadas.",Improdutivo
+"Assunto: O que acharam do final da série? Corpo: Ainda estou processando o último episódio de 'A Casa do Dragão'. Que final!",Improdutivo
+"Assunto: Sua assinatura do Disney+ foi renovada. Corpo: Sua assinatura mensal foi renovada com sucesso. Aproveite os lançamentos!",Improdutivo
+"Assunto: Jantar de confraternização da equipe. Corpo: Pessoal, vamos organizar um jantar para comemorar os resultados do trimestre?",Improdutivo
+"Assunto: Limpeza da geladeira da copa. Corpo: Lembrete: a geladeira será esvaziada e limpa na sexta-feira. Retirem seus itens.",Improdutivo
+"Assunto: Dúvidas sobre o novo sistema de ponto. Corpo: Olá, o novo sistema de ponto eletrônico já está funcionando? Como faço para registrar?",Produtivo
+"Assunto: Relatório de capacity do time. Corpo: A análise de capacity planning para o próximo sprint mostra que estamos com 20% de ociosidade.",Produtivo
+"Assunto: Aprovação de layout para o novo site. Corpo: A versão final do layout do novo site institucional foi aprovada pelo cliente. Podemos começar o desenvolvimento.",Produtivo
+"Assunto: Investigação de erro 500 na API. Corpo: A API de produtos está retornando erro 500 intermitentemente desde ontem. A equipe de SRE está investigando.",Produtivo
+"Assunto: Envio de contrato para assinatura eletrônica. Corpo: O contrato de prestação de serviços com o novo cliente foi enviado para assinatura via DocuSign.",Produtivo
+"Assunto: Análise de performance da última campanha. Corpo: A campanha de mídia paga no Google Ads teve um CTR de 5%, acima da nossa média de 3%.",Produtivo
+"Assunto: Agendamento de treinamento de liderança. Corpo: O treinamento 'Liderança para Novos Gestores' está agendado para a primeira semana do próximo mês.",Produtivo
+"Assunto: Proposta de melhoria no fluxo de CI/CD. Corpo: Anexei um documento com uma proposta para adicionar testes de segurança estáticos (SAST) ao nosso pipeline.",Produtivo
+"Assunto: Resultados da pesquisa de clima organizacional. Corpo: Os resultados consolidados da pesquisa de clima estão prontos. Vamos agendar uma reunião para apresentá-los.",Produtivo
+"Assunto: Onboarding técnico do novo desenvolvedor. Corpo: Preparei um guia de onboarding com todos os links, permissões e setup inicial para o novo membro do time.",Produtivo
+"Assunto: [Black Friday] As ofertas começaram! Corpo: Não espere! Nossa Black Friday já começou com descontos de até 70% em todo o site.",Improdutivo
+"Assunto: Feliz Dia dos Pais! Corpo: Um dia especial para celebrar todos os pais e figuras paternas. Parabéns!",Improdutivo
+"Assunto: Você tem uma nova lembrança no Facebook. Corpo: Relembre uma foto ou publicação de 5 anos atrás.",Improdutivo
+"Assunto: [Vagas de Estágio] Estamos procurando novos talentos! Corpo: Nosso programa de estágio está com inscrições abertas. Indique seus amigos!",Improdutivo
+"Assunto: Convite para seguir minha página no Instagram. Corpo: Olá! Criei uma página para compartilhar minhas fotos de viagem. Segue lá!",Improdutivo
+"Assunto: O almoço chegou! Corpo: Pessoal, o pedido do iFood acabou de chegar. Podem vir buscar na recepção.",Improdutivo
+"Assunto: Seu resumo do Strava. Corpo: Você pedalou 50km esta semana! Confira seu resumo de atividades.",Improdutivo
+"Assunto: [CUIDADO] Golpe do falso boleto. Corpo: Atenção ao pagar boletos. Verifique sempre o beneficiário antes de confirmar a transação.",Improdutivo
+"Assunto: Grupo de estudos para certificação AWS. Corpo: Estou montando um grupo para estudarmos juntos para a prova de certificação da AWS. Quem se interessa?",Improdutivo
+"Assunto: Feliz Páscoa! Corpo: Que sua Páscoa seja repleta de paz, amor e muitos chocolates!",Improdutivo
+"Assunto: Recibo da sua corrida. Corpo: Obrigado por usar nosso aplicativo. O recibo da sua última corrida está em anexo.",Improdutivo
+"Assunto: Interdição da avenida principal. Corpo: A avenida principal estará interditada para uma maratona no domingo de manhã.",Improdutivo
+"Assunto: Sorteio de Dia das Mães! Corpo: Cadastre-se em nosso site e concorra a um dia de spa para sua mãe.",Improdutivo
+"Assunto: O que fazer em São Paulo no feriado? Corpo: Um guia com dicas de passeios culturais e gastronômicos para aproveitar o feriado.",Improdutivo
+"Assunto: Sua encomenda da Magazine Luiza está a caminho. Corpo: Seu produto já foi coletado pela transportadora e a entrega está prevista para amanhã.",Improdutivo
+"Assunto: [COMUNICADO] Nova política de uso do ar condicionado. Corpo: Para economizar energia, o ar condicionado será desligado às 18h.",Improdutivo
+"Assunto: Você tem (1) novo recado na sua caixa postal. Corpo: Ligue para *100 para ouvir seu novo recado.",Improdutivo
+"Assunto: Sua opinião sobre nosso app. Corpo: Adoramos ouvir nossos usuários! Por favor, deixe uma avaliação na Play Store.",Improdutivo
+"Assunto: O final daquela série... Corpo: Alguém mais achou o final da série decepcionante? Precisamos conversar sobre isso.",Improdutivo
+"Assunto: Aumento de limite aprovado! Corpo: Ótima notícia! Seu pedido de aumento de limite para o cartão de crédito foi aprovado.",Improdutivo
+"Assunto: Assembleia extraordinária do condomínio. Corpo: Convocamos todos os moradores para uma assembleia sobre as obras da garagem.",Improdutivo
+"Assunto: Hoje tem clássico no campeonato! Corpo: Prepare a pipoca! O jogo do seu time começa às 16h.",Improdutivo
+"Assunto: [INVESTIMENTO] Conheça nosso novo fundo de ações. Corpo: Buscando diversificar seus investimentos? Conheça o fundo que rendeu 20% no último ano.",Improdutivo
+"Assunto: Feliz Dia das Mulheres! Corpo: Uma homenagem a todas as mulheres fortes e inspiradoras que fazem parte da nossa jornada.",Improdutivo
+"Assunto: A playlist da semana. Corpo: A playlist 'Novidades da Semana' no Spotify foi atualizada com os últimos lançamentos.",Improdutivo
+"Assunto: Alerta de preço: o voo que você buscava está mais barato! Corpo: Encontramos um preço menor para o voo de São Paulo para Salvador.",Improdutivo
+"Assunto: Organizando o amigo secreto da equipe. Corpo: Pessoal, o sorteio do nosso amigo secreto será realizado amanhã. Coloquem seus nomes na lista!",Improdutivo
+"Assunto: Sua conta de telefone já está disponível. Corpo: A fatura do seu plano de celular deste mês já pode ser acessada em nosso site.",Improdutivo
+"Assunto: Dicas para uma rotina matinal mais produtiva. Corpo: Comece seu dia com mais energia! Confira 5 dicas para uma rotina matinal de sucesso.",Improdutivo
+"Assunto: Validação de Requisitos Funcionais. Corpo: Anexei o documento de Requisitos Funcionais para o módulo de inventário. Aguardo a validação da equipe de produto.",Produtivo
+"Assunto: Acesso ao Servidor de Arquivos Confidenciais. Corpo: Preciso de permissão de acesso à pasta 'Financeiro/ResultadosQ3' para preparar a apresentação para os investidores.",Produtivo
+"Assunto: Relatório de Análise de Logs - Tentativas de Invasão. Corpo: O sistema de segurança detectou e bloqueou 15 tentativas de brute-force ao nosso servidor SSH na última noite.",Produtivo
+"Assunto: Agendamento de Treinamento sobre a Nova API. Corpo: O treinamento técnico sobre como utilizar a nova API de parceiros será na próxima sexta-feira, às 14h.",Produtivo
+"Assunto: Proposta de Orçamento para o Cliente Final. Corpo: A proposta final, incluindo os ajustes de escopo, foi enviada para o cliente Stark Industries.",Produtivo
+"Assunto: Status da Correção do Bug Crítico. Corpo: O bug #B-404 foi corrigido em ambiente de desenvolvimento e está aguardando o deploy para homologação.",Produtivo
+"Assunto: Revisão do Manual de Boas Práticas de Código. Corpo: O nosso guia de estilo e boas práticas de codificação foi atualizado. Por favor, leiam o documento.",Produtivo
+"Assunto: Call de Alinhamento sobre o Lançamento. Corpo: Marquei uma call final com todas as equipes envolvidas para alinharmos os últimos detalhes do lançamento de amanhã.",Produtivo
+"Assunto: Correção em Produção (Hotfix). Corpo: A correção para o problema de lentidão no checkout foi aplicada com sucesso em produção.",Produtivo
+"Assunto: Análise de Mercado - Novos Players. Corpo: Identificamos um novo player no mercado que está oferecendo um produto similar com um preço agressivo. Análise em anexo.",Produtivo
+"Assunto: Pedido de Férias para Dezembro. Corpo: Gostaria de formalizar meu pedido de férias para o período de 20 de Dezembro a 05 de Janeiro.",Produtivo
+"Assunto: Novo Processo para Solicitação de Viagens. Corpo: A partir de agora, todas as solicitações de viagem corporativa devem ser feitas através do novo portal de viagens.",Produtivo
+"Assunto: Gravação da Reunião de Planejamento. Corpo: O link para a gravação da reunião de planejamento do Q4 já está disponível para quem não pôde participar.",Produtivo
+"Assunto: Criação de Usuário para Novo Membro da Equipe. Corpo: Por favor, criar o usuário de rede e o e-mail para a nova analista de marketing que começa segunda-feira.",Produtivo
+"Assunto: Dúvida sobre o Benefício de Auxílio-Creche. Corpo: Olá, gostaria de entender melhor as regras e os valores para o benefício de auxílio-creche.",Produtivo
+"Assunto: Relatório de Acessos ao Painel de Administração. Corpo: Poderia gerar um log de todas as ações realizadas pelo usuário 'supervisor' no painel de administração ontem?",Produtivo
+"Assunto: Envio do Termo Aditivo do Contrato. Corpo: O termo aditivo do contrato com o cliente ACME, referente à mudança de escopo, está em anexo para assinatura.",Produtivo
+"Assunto: Protótipo da Nova Home Page. Corpo: O protótipo navegável da nova home page está no Figma, pronto para a validação do time de produto.",Produtivo
+"Assunto: Alerta de Uso de Disco no Servidor. Corpo: O uso de disco no servidor de arquivos atingiu 95%. Precisamos de uma limpeza urgente.",Produtivo
+"Assunto: Definição de Escopo para o MVP. Corpo: Precisamos agendar uma reunião para fechar o escopo do Mínimo Produto Viável (MVP) do projeto de gamificação.",Produtivo
+"Assunto: [URGENTE] Sua senha expirou! Corpo: Por motivos de segurança, sua senha de acesso aos sistemas expirou. Por favor, crie uma nova senha.",Improdutivo
+"Assunto: Pizza hoje à noite? Corpo: Pessoal, para comemorar o fim do projeto, que tal pedirmos umas pizzas e comermos aqui no escritório hoje?",Improdutivo
+"Assunto: Você já viu este vídeo? 😂. Corpo: Amigo, você precisa ver isso! É o vídeo mais engraçado que vi esta semana.",Improdutivo
+"Assunto: Sua fatura do Amazon Prime está disponível. Corpo: Olá, o valor de R$ 14,90 referente à sua assinatura mensal será debitado em breve.",Improdutivo
+"Assunto: [COMUNICADO] Dress code para a visita do cliente. Corpo: Pessoal, na sexta-feira teremos a visita do cliente ACME. Pedimos que todos venham com traje social.",Improdutivo
+"Assunto: Recomendações de séries na Apple TV+. Corpo: Assinei a Apple TV+ agora. Quais séries vocês recomendam de lá?",Improdutivo
+"Assunto: Notificação de Segurança: Sua senha foi alterada. Corpo: A senha da sua conta do Mercado Livre foi alterada com sucesso.",Improdutivo
+"Assunto: Quem quer um pedaço de bolo? Corpo: Trouxe um bolo de cenoura que fiz ontem. Está na copa para quem quiser!",Improdutivo
+"Assunto: Você tem novas memórias neste dia. Corpo: O Google Fotos criou uma animação com suas fotos de 3 anos atrás. Veja agora!",Improdutivo
+"Assunto: [CAMPANHA] Doação de sangue. Corpo: O hemocentro da cidade está com estoques baixos. Sua doação pode salvar vidas.",Improdutivo
+"Assunto: Reunião de condomínio online. Corpo: A próxima reunião de condomínio será realizada via Zoom na próxima quinta-feira.",Improdutivo
+"Assunto: O que vocês estão achando do calor? Corpo: O calor está insuportável hoje, não é? O ar condicionado parece não dar conta.",Improdutivo
+"Assunto: [CLASSIFICADOS] Vendo cadeira de escritório. Corpo: Estou vendendo minha cadeira ergonômica da Flexform. Ótimo estado.",Improdutivo
+"Assunto: Sua assinatura da HBO Max está para expirar. Corpo: Não perca seus filmes e séries favoritos. Renove sua assinatura agora.",Improdutivo
+"Assunto: Feliz Dia do Amigo! Corpo: Um abraço especial para todos os amigos que tornam nossos dias de trabalho mais leves.",Improdutivo
+"Assunto: Bolão do campeonato brasileiro. Corpo: Quem vai querer participar do bolão deste ano? As regras são as mesmas do ano passado.",Improdutivo
+"Assunto: Onde tem um bom lugar para almoçar com o cliente? Corpo: Preciso levar um cliente para almoçar amanhã. Alguma sugestão de um restaurante mais formal por aqui?",Improdutivo
+"Assunto: [ALERTA] Vencimento da sua fatura de água. Corpo: A sua conta de água vence em 2 dias. Pague para evitar a interrupção do serviço.",Improdutivo
+"Assunto: Receita de risoto de cogumelos. Corpo: Para quem pediu, segue a receita do risoto que fiz no final de semana.",Improdutivo
+"Assunto: Convite para o lançamento do meu livro. Corpo: Gostaria de convidar a todos para o lançamento do meu primeiro livro! Será na livraria Cultura.",Improdutivo
