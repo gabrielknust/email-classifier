@@ -78,6 +78,11 @@ Instale os pacotes necessários:
     uv pip install -r requirements.txt
 ``
 
+Volte para a pasta raiz do projeto:
+``
+    cd ../../
+``
+
 ### Execução do Fine-Tuning
 
 Ainda com o ambiente virtual ativo execute o comando:
