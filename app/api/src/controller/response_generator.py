@@ -1,17 +1,13 @@
 import google.generativeai as genai
 from app.api.config import settings
 
-# --- CONFIGURAÇÃO DO MODELO GEMINI ---
 try:
     genai.configure(api_key=settings.GEMINI_API_KEY)
     model = genai.GenerativeModel('models/gemini-flash-latest')
-    print("Modelo de Geração (Gemini) carregado com sucesso!")
 except Exception as e:
     print(f"ERRO CRÍTICO: Não foi possível carregar o modelo Gemini. Verifique a API Key. Erro: {e}")
     model = None
 
-# --- PROMPT ENGINEERING ---
-# O prompt é o nosso comando para a IA. É a parte mais importante.
 PROMPT_TEMPLATE = """
 Você é um assistente de IA para uma empresa do setor financeiro. Sua tarefa é gerar uma sugestão de resposta curta e profissional para um e-mail.
 
@@ -29,9 +25,6 @@ Baseado na categoria e no conteúdo, gere uma sugestão de resposta adequada.
 
 # --- FUNÇÃO DE GERAÇÃO DE RESPOSTA ---
 async def suggest_reply(original_text: str, label: str) -> str:
-    """
-    Usa o Gemini para gerar uma sugestão de resposta baseada no e-mail e seu rótulo.
-    """
     if not model:
         return "Erro: O modelo de geração de respostas não está disponível."
     
