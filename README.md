@@ -115,5 +115,5 @@ Agora execute o comando de inicialização:
 ``
     npm run dev
 ``
-
-Desenvolvido por Gabriel Silva Knust (https://www.linkedin.com/in/gabrielknust/)
+___
+Desenvolvido por [Gabriel Silva Knust](https://www.linkedin.com/in/gabrielknust/)
